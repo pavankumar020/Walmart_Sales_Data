@@ -1,4 +1,4 @@
-# Walmart_Sales_Data
+# MySQL Walmart_Sales_Data
 
 This repository contains a project aimed at analyzing Walmart sales data using MySQL. The goal is to provide insights into sales trends, customer behavior, and other key metrics that can help Walmart improve its business strategies. This README will guide you through the dataset, the SQL queries used, and the insights derived from the analysis.
 

@@ -32,8 +32,11 @@ Rating: Customer rating for the transaction.
 The database schema consists of a single table named walmart_sales, which is structured as follows:
 
 CREATE TABLE walmart_sales (
+    
     invoice_id VARCHAR(20) PRIMARY KEY,
+    
     branch CHAR(1),
+   
     city VARCHAR(50),
     customer_type VARCHAR(20),
     gender VARCHAR(10),
